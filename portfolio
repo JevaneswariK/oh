@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jevaneswari K | Tech Enthusiast</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f4fc;
+      margin: 0; padding: 0;
+      color: #000;
+    }
+    header {
+      background-color: #4b3b60;
+      color: white;
+      padding: 2em 1em;
+      text-align: center;
+    }
+    nav {
+      background-color: #6a4e8a;
+      padding: 1em;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 10px;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+    nav a:hover {
+      color: #d1c4e9;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2em auto;
+      padding: 0 1em;
+    }
+    section {
+      background: white;
+      margin-bottom: 2em;
+      padding: 1.5em;
+      border-left: 5px solid #000;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    h2 {
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5em;
+      margin-bottom: 1em;
+      color: #000;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin-bottom: 0.8em;
+    }
+    footer {
+      background-color: #4b3b60;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jevaneswari K</h1>
+    <p>Tech Enthusiast</p>
+    <p>Email: <a href="mailto:kjevaneswari1@gmail.com" style="color:#d1c4e9;">kjevaneswari1@gmail.com</a> | Phone: 9342942205</p>
+  </header>
+
+  <nav>
+    <a href="#profile">Profile</a>
+    <a href="#education">Education</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <section id="profile">
+      <h2>Profile</h2>
+      <p>To establish a career as a software developer, continuously enhance my coding skills, and contribute to solving real-world challenges through innovative solutions.</p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>B.E - Electrical and Electronics Engineering</strong>, CK College of Engineering and Technology, 2021–2025 – CGPA: 8.81 (88.1%)</li>
+        <li><strong>HSC</strong>, St Anne's Girls Higher Secondary School, 2019–2021 – 88.5%</li>
+        <li><strong>SSLC</strong>, Rathna Matric Higher Secondary School, 2018–2019 – 84.2%</li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <p><strong>Programming Languages:</strong> Python, C, Java</p>
+      <p><strong>Web Technologies:</strong> HTML, CSS</p>
+      <p><strong>Tools:</strong> Power BI, Microsoft PowerPoint</p>
+      <p><strong>Soft Skills:</strong> Planning, Prioritization, Self-Motivation, Confidence, Active Listening</p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Portable Smart Weather Monitoring System:</strong> Designed an embedded IoT device to monitor environmental data in real-time for agriculture and climate applications.</li>
+        <li><strong>Vehicle-to-Vehicle Communication using Li-Fi Technology:</strong> Developed a real-time vehicle communication system using LEDs and photodiodes to enhance road safety.</li>
+        <li><strong>Portfolio Website:</strong> Custom personal website using HTML and CSS to showcase skills and projects.</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:kjevaneswari1@gmail.com">kjevaneswari1@gmail.com</a></p>
+      <p>Phone: 9342942205</p>
+      <p>Address: 12, East Street, Vazhisodhanaipalayam, Cuddalore, Tamil Nadu - 607003</p>
+    </section>
+  </div>
+
+  <footer>
+    &copy; 2025 Jevaneswari K
+  </footer>
+</body>
+</html>
